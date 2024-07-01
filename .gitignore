@@ -1,0 +1,6 @@
+wandb
+data
+__pycache__/
+*.py[cod]
+output
+*.beton
